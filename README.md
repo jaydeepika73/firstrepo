@@ -1,2 +1,3 @@
 # firstrepo
-my first git repository 
+My first git repository 
+Author- Isaac Thapa 
